@@ -1,0 +1,49 @@
+.navbar{
+    background-color: rgb(67, 7, 180);
+    /* color: white; */
+    
+}
+.nav-link{
+    color: white !important;
+    font-size: 22px;
+    
+}
+
+.logo-image{
+    width: 70px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+    margin-left: 20px;
+}
+#navmain{
+    margin-left: 100px;
+}
+.navitem{
+    padding:0px 10px ;
+}
+#usericon{
+    background-color: white;
+    color: pink !important;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px;
+    font-size: 27px;
+    border-radius: 90%;
+    width: 40px;
+    pointer-events: none;
+}
+
+.navbar-expand-lg .navbar-collapse{
+    margin-right: 0px !important;
+}
+
+.dropdown-menu[data-bs-popper] {
+    margin-right: 2000px !important;
+    margin-left: 100px;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    left:-100%
+}

@@ -1,0 +1,39 @@
+
+/* homepage */
+.homepage{
+    background-image: url(/img/welcome.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 240vh;
+   
+    position: relative;
+}
+#homepage-text{
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    color: white;
+    
+}
+
+/* Main Box Recent*/
+#main_box {
+    margin: 90px;
+    height: 75vh;
+    border-radius: 10px;
+    align-items: center;
+}
+.card {
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+
+
+  
+  
