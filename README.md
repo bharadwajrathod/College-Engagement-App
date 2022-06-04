@@ -6,8 +6,8 @@ students too and must must login .
 - Many of u will get an idea about past Interview Experience  and learn through these blogs .
 
 ##Tech stack :
-1.HTML
-2.CSS
-3.JAVASCRIPT
-4.NODEJS
-5.EXPRESS.JS
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. NODEJS
+5. EXPRESS.JS
