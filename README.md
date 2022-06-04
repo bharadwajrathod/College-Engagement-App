@@ -1,2 +1,6 @@
 # College-Engagement-App
-These is best place to get information about college life is from the people who have gone through the experience themselves. They know the best ways to get through the circumstances that are as of yet unknown to you and are eager to help you figure them out. Reading through these blogs will make you feel as if you have a virtual older sibling guiding you through this next for upcoming students
+- Developed a Dynamic web app application to get an information about past Interview Experience and sharing content about College life is from the seniors and friends who have gone through the good and bad experience by posting/blogging .
+- These blogs / posts are stored in sorted manner to view other
+students too and must must login .
+- These is best place to get information about college life is from the people who have gone through lot of  experience. Reading through these blogs will make you feel as if you have a virtual older sibling is guiding you through this, for upcoming students and jnrs and friends.
+- Many of u will get an idea about past Interview Experience  and learn through these blogs .
