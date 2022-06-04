@@ -12,5 +12,12 @@ students too and must must login .
 4. NODEJS
 5. EXPRESS.JS
 
+##Features :
+1. Loggin / Signup via Email Id -
+![Screenshot (530)](https://user-images.githubusercontent.com/64728560/172006672-3eaf1bac-8da9-4a09-9e58-272a272bdbcb.png)
+
+2. Home page 
 ![Screenshot (527)](https://user-images.githubusercontent.com/64728560/172006084-151e608d-b441-4d95-8c03-ee8318a953d5.png)
 
+3. Older Blogs 
+![Screenshot (531)](https://user-images.githubusercontent.com/64728560/172006913-b2196a85-fc2f-49b9-8d56-bb53effe8f8a.png)
