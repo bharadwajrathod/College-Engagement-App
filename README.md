@@ -5,7 +5,7 @@ students too and must must login .
 - These is best place to get information about college life is from the people who have gone through lot of  experience. Reading through these blogs will make you feel as if you have a virtual older sibling is guiding you through this, for upcoming students and jnrs and friends.
 - Many of u will get an idea about past Interview Experience  and learn through these blogs .
 
-##Tech stack :
+#Tech stack :
 1. HTML
 2. CSS
 3. JAVASCRIPT
