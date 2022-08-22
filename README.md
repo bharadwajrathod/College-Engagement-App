@@ -5,14 +5,14 @@ students too and must must login .
 - These is best place to get information about college life is from the people who have gone through lot of  experience. Reading through these blogs will make you feel as if you have a virtual older sibling is guiding you through this, for upcoming students and jnrs and friends.
 - Many of u will get an idea about past Interview Experience  and learn through these blogs .
 
-#Tech stack :
+## Tech stack 
 1. HTML
 2. CSS
 3. JAVASCRIPT
 4. NODEJS
 5. EXPRESS.JS
 
-##Features :
+## Features 
 1. Loggin / Signup via Email Id -
 ![Screenshot (530)](https://user-images.githubusercontent.com/64728560/172006672-3eaf1bac-8da9-4a09-9e58-272a272bdbcb.png)
 
