@@ -21,3 +21,6 @@ students too and must must login .
 
 3. Older Blogs 
 ![Screenshot (531)](https://user-images.githubusercontent.com/64728560/172006913-b2196a85-fc2f-49b9-8d56-bb53effe8f8a.png)
+![image](https://user-images.githubusercontent.com/64728560/228338260-3c4db458-d531-4eb8-8a41-c26db36c80f5.png)
+![image](https://user-images.githubusercontent.com/64728560/228338267-c764c8ee-6347-4a74-8bc1-0e97302bbbb7.png)
+
